@@ -1,0 +1,17 @@
+# Claves y secretos: NUNCA se suben
+.env
+.env.*
+!.env.example
+
+# Entornos virtuales de Python
+.venv/
+venv/
+env/
+entornoExe/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
